@@ -24,7 +24,7 @@
           
             <li><a href="/trabajos">
                 <i class='bx bxs-briefcase-alt'></i>
-                <span class="link-name">Trabajos</span>
+                <span class="link-name">Trabajooos</span>
             </a></li>
             <li><a href="/proyectos">
                 <i class='bx bxs-rocket'></i>
