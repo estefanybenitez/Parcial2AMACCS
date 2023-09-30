@@ -24,20 +24,20 @@
           
             <li><a href="/trabajos">
                 <i class='bx bxs-briefcase-alt'></i>
-                <span class="link-name">Trabajooos</span>
+                <span class="link-name">Trabajos</span>
             </a></li>
             <li><a href="/proyectos">
                 <i class='bx bxs-rocket'></i>
-                <span class="link-name">proyectos</span>
+                <span class="link-name">Proyectos</span>
             </a></li>
             <li><a href="/servicios">
                 <i class='bx bx-world'></i>
-                <span class="link-name">servicios</span>
+                <span class="link-name">Servicios</span>
             </a></li>
            
             <li><a href="/contacto">
                 <i class='bx bxs-envelope'></i>
-                <span class="link-name">contacto</span>
+                <span class="link-name">Contacto</span>
             </a></li>
           </ul>
         
