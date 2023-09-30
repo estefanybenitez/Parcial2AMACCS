@@ -21,30 +21,32 @@
         <section class="home-section">
           <div class="home-content">
             <i class='bx bx-menu' ></i>
-            {{-- <span class="text">Drop Down Sidebar</span> <br> --}}
+          </div>
+          
+          <div class="content">
             @yield('content') 
           </div>
         </section>
         
       </div>
-      <script>
-      let arrow = document.querySelectorAll(".arrow");
-      for (var i = 0; i < arrow.length; i++) {
-        arrow[i].addEventListener("click", (e)=>{
-       let arrowParent = e.target.parentElement.parentElement;//selecting main parent of arrow
-       arrowParent.classList.toggle("showMenu");
-        });
-      }
-      let sidebar = document.querySelector(".sidebar");
-      let sidebarBtn = document.querySelector(".bx-menu");
-      console.log(sidebarBtn);
-      sidebarBtn.addEventListener("click", ()=>{
-        sidebar.classList.toggle("close");
-      });
-      </script>
+      
 </body>
 </html>
 
-@yield('scripts')
+<script>
+  let arrow = document.querySelectorAll(".arrow");
+  for (var i = 0; i < arrow.length; i++) {
+    arrow[i].addEventListener("click", (e)=>{
+   let arrowParent = e.target.parentElement.parentElement;//selecting main parent of arrow
+   arrowParent.classList.toggle("showMenu");
+    });
+  }
+  let sidebar = document.querySelector(".sidebar");
+  let sidebarBtn = document.querySelector(".bx-menu");
+  console.log(sidebarBtn);
+  sidebarBtn.addEventListener("click", ()=>{
+    sidebar.classList.toggle("close");
+  });
+  </script>
 
 
