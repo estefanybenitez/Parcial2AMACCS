@@ -18,7 +18,7 @@
         <ul class="nav-links">
             <li><a class="active" href="/">
                 <i class="bx bxs-home"></i>
-                <span class="link-name">Home</span>
+                <span class="link-name">Homee</span>
             </a></li>
        
           
