@@ -1,11 +1,10 @@
 .bg-image {
-    background-image: url('./img-proyectos/fondo-cuadricula-digital-futurista-azul-oscuro.webp'); /* Reemplaza 'empresa.jpg' con la URL de tu imagen */
+    background-image: url('./img-proyectos/fondo-cuadricula-digital-futurista-azul-oscuro.webp');
     background-size: cover;
     background-position: center;
-    height: 100vh; /* Ajusta la altura según tus preferencias */
+    height: 100vh;
 }
 
-/* Centra el contenido verticalmente */
 .center-content {
     display: flex;
     flex-direction: column;
@@ -13,5 +12,5 @@
     align-items: center;
     height: 100%;
     text-align: center;
-    color: #fff; /* Color del texto */
+    color: #fff; 
 }
