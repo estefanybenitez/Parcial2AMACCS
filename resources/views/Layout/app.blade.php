@@ -26,9 +26,17 @@
           <div class="content">
             @yield('content') 
           </div>
+          
+          {{-- footer --}}
+          @component('Components.Footer')
+        
+          @endcomponent
         </section>
         
       </div>
+      
+
+      
       
 </body>
 </html>
