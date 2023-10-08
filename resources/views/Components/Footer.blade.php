@@ -1,11 +1,3 @@
-@extends('Layout.app')
-
-@section('content')
-<h1 class="text-center">Proyectos</h1>
-<hr>
-
-{{-- insertar contenido  --}}
-
 <!-- Footer -->
 <footer class="text-center text-white" style="background-color: #0a4275;">
     <!-- Copyright -->
@@ -16,5 +8,3 @@
     <!-- Copyright -->
   </footer>
   <!-- Footer -->
-
-@endsection

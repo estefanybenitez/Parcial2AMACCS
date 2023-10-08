@@ -5,10 +5,6 @@
 <h1 class="text-center">Trabajos</h1>
 <hr>
 
-{{-- insertar contenido  --}}
-
-
-
 
 
 
