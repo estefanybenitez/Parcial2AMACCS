@@ -27,13 +27,10 @@
 
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 @endsection
-=======
+
 @endsection
->>>>>>> estefany
-=======
+
 @endsection
->>>>>>> estefany

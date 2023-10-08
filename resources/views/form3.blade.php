@@ -9,9 +9,7 @@
    
 
 
-=======
-=======
->>>>>>> estefany
+
 <h1 class="text-center">Sucursales</h1>
 <hr>
 <div class="container mb-3 p-3">

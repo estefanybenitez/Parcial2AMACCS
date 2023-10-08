@@ -2,6 +2,7 @@
 
 @section('content')
 <h1 class="text-center">Gesti&oacute;n de facturas</h1>
+
 <hr>
 
 <div class="container">
