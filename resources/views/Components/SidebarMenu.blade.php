@@ -12,7 +12,7 @@
           <div class="sidebar close">
             <div class="logo-details">
                 <i class='bx bxl-github'></i>
-              <span class="logo_name">GitHub</span>
+              <span class="logo_name">Parcial2</span>
             </div>
             <ul class="nav-links">
               <li>
@@ -21,39 +21,29 @@
                   <span class="link_name">Home</span>
                 </a>
               </li>
-              <li><a href="/trabajos">
-                <i class='bx bxs-briefcase-alt'></i>
-                <span class="link_name">Trabajos</span>
+              <li>
+                <a href="/form1">
+                  <i class='bx bx-git-repo-forked'></i>
+                  <span class="link_name">Formulario 1</span>
+                </a>
+              </li>
+              <li><a href="/form2">
+                <i class='bx bx-git-repo-forked'></i>
+                <span class="link_name">Formulario 2</span>
             </a></li>
-            <li><a href="/proyectos">
-                <i class='bx bxs-rocket'></i>
-                <span class="link_name">Proyectos</span>
+            <li><a href="/form3">
+              <i class='bx bx-git-repo-forked'></i>
+                <span class="link_name">Formulario 3</span>
             </a></li>
-            <li><a href="/servicios">
-                <i class='bx bx-world'></i>
-                <span class="link_name">Servicios</span>
+            <li><a href="/form4">
+                <i class='bx bx-git-repo-forked'></i>
+                <span class="link_name">Formulario 4</span>
             </a></li>
            
-            <li><a href="/contacto">
-                <i class='bx bxs-envelope'></i>
-                <span class="link_name">Contacto</span>
+            <li><a href="/form5">
+                <i class='bx bx-git-repo-forked'></i>
+                <span class="link_name">Formulario 5</span>
             </a></li>
-    
-              {{-- <li>
-                <div class="iocn-link">
-                  <a href="#">
-                    <i class='bx bx-collection' ></i>
-                    <span class="link_name">Category</span>
-                  </a>
-                  <i class='bx bxs-chevron-down arrow' ></i>
-                </div>
-                <ul class="sub-menu">
-                  <li><a class="link_name" href="#">Category</a></li>
-                  <li><a href="#">HTML & CSS</a></li>
-                  <li><a href="#">JavaScript</a></li>
-                  <li><a href="#">PHP & MySQL</a></li>
-                </ul>
-              </li> --}}
          
         </ul>
           </div>

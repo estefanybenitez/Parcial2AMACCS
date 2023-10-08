@@ -2,7 +2,7 @@
 
 @section('content')
 
-<h1 class="text-center">Trabajos</h1>
+<h1 class="text-center">Formulario 4</h1>
 <hr>
 
 
