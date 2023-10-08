@@ -29,33 +29,4 @@
 
 
 
-<<<<<<< HEAD
-
-<!--Divs informativos-->
-<div class="card-group mt-3" >
-  <div class="card" style="width: 18rem;" id="divservicio">
-  <img class="card-img-top" src="./imgs/serv1.png" alt="Card image cap">
-  <div class="card-body">
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-  <a href="#" class="btn btn-primary">Entrar</a>
-
-  </div>
-
-
-
-
-  <div class="card" style="width: 18rem;" id="divservicio">
-  <img class="card-img-top" src="./imgs/serv4.png" alt="Card image cap">
-  <div class="card-body">
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-  <a href="#" class="btn btn-primary">Entrar</a>
-
-  </div>
-</div>
-
 @endsection
-=======
-@endsection
->>>>>>> master
