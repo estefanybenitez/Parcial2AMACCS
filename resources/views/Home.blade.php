@@ -18,6 +18,7 @@
     <p>Estefany Azucena Benitez Vasquez -142722</p>
     <p>Daniela Alejandra Sanabria Perez -096122</p>
     <p>Vanessa Carolina Amaya Martinez -043122</p>
+    <p>Sobeyda Xiomara Martinez Avalos -033022</p>
 
     </div>
   
