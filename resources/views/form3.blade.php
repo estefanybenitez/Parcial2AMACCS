@@ -2,8 +2,7 @@
 
 @section('content')
     
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <h1 class="text-center">Formulario 3</h1>
 <hr>
 
@@ -74,10 +73,6 @@
     }
  
 </style>
-<<<<<<< HEAD
->>>>>>> estefany
-=======
->>>>>>> estefany
 
 
 @endsection
