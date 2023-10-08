@@ -27,6 +27,11 @@
             @yield('content') 
           </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+          
+          {{-- footer --}}
+>>>>>>> estefany
 =======
           
           {{-- footer --}}

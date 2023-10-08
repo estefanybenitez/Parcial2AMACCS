@@ -5,6 +5,7 @@
 <hr>
 {{-- insertar contenido  --}}
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div class="container">
     <h1>Formulario de Cobro</h1>
     <form>
@@ -66,12 +67,17 @@
     }
 </style>
 =======
+=======
+>>>>>>> estefany
 
 
     
 
 
 
+<<<<<<< HEAD
+>>>>>>> estefany
+=======
 >>>>>>> estefany
 
 @endsection

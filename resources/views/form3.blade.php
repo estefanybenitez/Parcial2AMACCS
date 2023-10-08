@@ -3,6 +3,7 @@
 @section('content')
     
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1 class="text-center">Formulario 3</h1>
 <hr>
 
@@ -10,6 +11,8 @@
 
 
 =======
+=======
+>>>>>>> estefany
 <h1 class="text-center">Sucursales</h1>
 <hr>
 <div class="container mb-3 p-3">
@@ -71,6 +74,9 @@
     }
  
 </style>
+<<<<<<< HEAD
+>>>>>>> estefany
+=======
 >>>>>>> estefany
 
 
