@@ -26,9 +26,15 @@
           <div class="content">
             @yield('content') 
           </div>
+          @component('Components.Footer')
+        
+          @endcomponent
         </section>
         
       </div>
+      
+
+      
       
 </body>
 </html>

@@ -1,0 +1,23 @@
+body{
+    background-color:aliceblue;
+}
+
+
+#divservicio{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 8%;
+    width: 30%;
+    height: 30%;
+    background-color:aliceblue;
+    
+}   
+
+#intro{
+    margin-top: 3%;
+    border-bottom: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
