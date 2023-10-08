@@ -26,8 +26,11 @@
           <div class="content">
             @yield('content') 
           </div>
+<<<<<<< HEAD
           
           {{-- footer --}}
+=======
+>>>>>>> master
           @component('Components.Footer')
         
           @endcomponent

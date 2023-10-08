@@ -29,6 +29,7 @@
 
 
 
+<<<<<<< HEAD
 
 <!--Divs informativos-->
 <div class="card-group mt-3" >
@@ -55,3 +56,6 @@
 </div>
 
 @endsection
+=======
+@endsection
+>>>>>>> master
