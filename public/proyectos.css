@@ -1,0 +1,16 @@
+.bg-image {
+    background-image: url('./img-proyectos/fondo-cuadricula-digital-futurista-azul-oscuro.webp');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    color: #fff; 
+}
