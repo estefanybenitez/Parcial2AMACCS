@@ -4,8 +4,6 @@
 <h1 class="text-center">Formulario 5</h1>
 <hr>
 {{-- insertar contenido  --}}
-<<<<<<< HEAD
-<<<<<<< HEAD
 <div class="container">
     <h1>Formulario de Cobro</h1>
     <form>
@@ -66,18 +64,6 @@
         background-color: #FF0080;
     }
 </style>
-=======
-=======
->>>>>>> estefany
 
-
-    
-
-
-
-<<<<<<< HEAD
->>>>>>> estefany
-=======
->>>>>>> estefany
 
 @endsection
