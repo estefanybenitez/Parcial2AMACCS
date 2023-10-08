@@ -1,0 +1,20 @@
+.caja{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 8%;
+    width: 70%;
+   
+    
+}
+
+.selectAltura {
+    display:block;
+    height:50px;
+    width:200px;
+  }
+  
+  .selectAltura2 {
+    padding:20px;
+  }
+  
